@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558604402821.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1437610487",
+    "id" : "9C08DA0F",
+    "lastKnownWriteTime" : 1558604398,
+    "last_content_update" : 1558604398,
+    "path" : "C:/dheyw/Dheydingyu/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
